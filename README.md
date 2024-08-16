@@ -1,14 +1,17 @@
 Netflix Clone:
-   A Netflix clone application built with React, Tailwind CSS, Axios, TMDB API, and Firebase. 
+
+   A Netflix clone application built with React, Tailwind CSS, Axios, TMDB API, and Firebase.
    This project showcases a movie streaming app with user authentication, a modern UI.
 
 Features:
+
     User Authentication: Sign up, login, and manage user sessions using Firebase Authentication.
     Responsive UI: Modern, responsive design with Tailwind CSS.
     Movie Listings: Dynamic movie and TV show listings fetched from the TMDB API.
     Watchlist: Add and manage favorite movies or shows.
     
 Tech Stack:
+
     Frontend: React
     Styling: Tailwind CSS
     API Requests: Axios
